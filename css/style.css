@@ -1,0 +1,60 @@
+.wrapper {
+    width: 600px;
+    margin: 35px auto;
+}
+body {
+    margin: 0;
+    background-color: #D3D3D3;
+}
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #808080;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    background-color: #808080;
+    width: 600px;
+}
+
+li span {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #808080;
+}
+
+
+.foto {
+    text-align: center;
+}
+
+.link {
+    padding-left: 40px;
+    padding-bottom: 10px;
+    font-style: italic;
+}
+
+.phone {
+    padding-left: 40px;
+}
+
+.feedback {
+    padding-left: 40px;
+}
