@@ -13,6 +13,7 @@
 
 body {
     margin: 0;
+    padding: 0;
     background-color: #808080;
 }
 
@@ -20,17 +21,15 @@ body {
     margin: 40px 50px;
 }
 
-
 ul {
     list-style: none;
     margin: 0 auto;
     overflow: hidden;
 }
 
-a.menu {
+a {
     display: block;
     text-decoration: none;
-    color: #ffffff;
 }
 
 nav {
@@ -44,8 +43,8 @@ nav {
 li.menu {
     display: inline-block;
     font-family: sans-serif;
-    margin: 10px;
-    float: left;
+    margin: 11px;
+    color: #ffffff;
     padding: 0 20px;
 }
 
