@@ -36,10 +36,10 @@ a {
 .headmenu li {
     display: inline-block;
     padding: 10px 20px;
+    border: 0;
 }
 
 .headmenu li:hover {
-    transition: .2s;
     padding:10px 19px;
     border-right: solid 1px #c8c8c8;
     border-left: solid 1px #c8c8c8;
