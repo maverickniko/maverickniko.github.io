@@ -4,7 +4,7 @@
 }
 
 body {
-    width: 1366px;
+    max-width: 1366px;
     height: 950px;
     background-color: #f9f9f9;
 }
@@ -34,10 +34,8 @@ a {
 }
 
 .headmenu li {
-    border-color:  transparent;
     display: inline-block;
     padding: 10px 20px;
-    border: 0;
 }
 
 .headmenu li:hover {
@@ -48,10 +46,9 @@ a {
     background-image: linear-gradient(to top, #2e2e2e 0%, #4a4a4a 100%);
 }
 
-.headmenu li:first-child:hover {
+/*.headmenu li:first-child:hover {
     border-left: transparent;
-}
-
+}*/
 
 .headmenu a {
     color: white;
